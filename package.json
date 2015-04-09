@@ -1,6 +1,6 @@
 {
   "name": "tomita-parser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Node wrapper for Yandex Tomita Parser",
   "main": "index",
   "keywords": [
@@ -15,7 +15,7 @@
     "name": "vao",
     "email": "VaoMamago@gmail.com"
   },
-  "_id": "tomita-parser@0.0.1",
+  "_id": "tomita-parser@0.0.2",
   "scripts": {
     "install": "./node_modules/.bin/gulp"
   },
@@ -23,6 +23,6 @@
     "gulp": "^3.8.11",
     "gulp-download": "0.0.1",
     "seek-bzip": "^1.0.4",
-    "xml2json": "^0.6.1"
+    "xml2js": "^0.4.6"
   }
 }
