@@ -20,7 +20,7 @@ new Tomita('input text', '/absolute/path/to/config.proto', function (err, res) {
 ```
 ## Test
 ```
-to-do
+npm test
 ```
 or [Yandex examples.zip](http://download.cdn.yandex.net/tomita/examples.zip) 
 
