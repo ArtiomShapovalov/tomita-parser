@@ -1,6 +1,6 @@
 {
   "name": "tomita-parser",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Node wrapper for Yandex Tomita Parser",
   "main": "index",
   "keywords": [
@@ -19,7 +19,7 @@
     "type": "git",
     "url": "git://github.com/ArtiomVao/tomita-parser.git"
   },
-  "_id": "tomita-parser@0.0.2",
+  "_id": "tomita-parser@0.0.3",
   "scripts": {
     "install": "./node_modules/.bin/gulp",
     "test": "./node_modules/.bin/lab -v"
